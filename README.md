@@ -9,11 +9,11 @@ Message à envoyer sur le port serie de l'Arduino (Baudrate 9600)
 Boutton "Play" : 
 !P?
 
-La pièce tombre dans le trou X : 
+La pièce tombe dans le trou X : 
 !RX?
 ```
 
 # A faire
 - Contrôler le bras avec les bouttons
 - Detecter l'appui sur le boutton "Play"
-- Detecter la pièce devant le capateur
+- Detecter la pièce devant le capteur
