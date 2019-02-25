@@ -11,6 +11,9 @@ Boutton "Play" :
 
 La pièce tombe dans le trou X : 
 !RX?
+
+Le verre a fini d'être rempli :
+!D?
 ```
 
 # A faire
