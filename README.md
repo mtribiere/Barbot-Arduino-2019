@@ -18,5 +18,6 @@ Le verre a fini d'être rempli :
 
 # A faire
 - Contrôler le bras avec les bouttons
-- Detecter l'appui sur le boutton "Play"
-- Detecter la pièce devant le capteur
+- Détecter l'appui sur le boutton "Play"
+- Détecter la pièce devant le capteur
+- Distribuer la bonne boission
